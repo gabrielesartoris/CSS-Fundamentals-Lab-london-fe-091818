@@ -9,5 +9,5 @@ header {
 }
 
 #featured-property {
-    center;
+  image-rendering: center;
 }
