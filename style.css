@@ -16,7 +16,8 @@ img {
 }
 
 nav  {
-  color:gray;
+ background-color:gray;
+ text-align:center;
   padding-right:10px;
   padding-left:10px
   
